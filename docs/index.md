@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Yoschey Rezepte"
   text: "Ich sammel hier Rezepte damit ich mal weiß was ich essen mag"
-  tagline: Just eat it!
+  tagline: Just eat it! And Enjoy!
   actions:
     - theme: brand
       text: Markdown Examples
